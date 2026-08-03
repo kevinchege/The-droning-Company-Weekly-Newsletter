@@ -24,6 +24,10 @@ table {
   border-collapse: collapse !important;
 }
 /* Base Body & Layout */
+.logo-img {
+  background-color: #black;
+  padding: 12px;
+}
 .body-reset {
   margin: 0 !important;
   padding: 0 !important;
