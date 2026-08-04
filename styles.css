@@ -1,4 +1,3 @@
-/* Base Resets */
 body,
 table,
 td,
@@ -117,7 +116,7 @@ table {
   padding-bottom: 8px;
   border-bottom: 2px solid #fecd0e;
 }
-/* Side-by-Side 2 Column Grid */
+/*  Column Grid */
 .col-left {
   width: 50%;
   padding-right: 10px;
